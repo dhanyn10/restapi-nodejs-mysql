@@ -1,7 +1,4 @@
 {
-  "name": "tutorial-4",
-  "version": "1.0.0",
-  "description": "[4] Parsing the Body & Handling CORS",
   "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
